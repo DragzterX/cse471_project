@@ -1,0 +1,2 @@
+mongodb dtabase: mongodb+srv://Dragzter:siam1234@cluster0.srq1x8c.mongodb.net/
+start server with: npm run dev
